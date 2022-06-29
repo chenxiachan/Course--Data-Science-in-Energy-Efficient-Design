@@ -8,6 +8,9 @@
 Typical workflow of data science
 
 ---
+![image](https://user-images.githubusercontent.com/106488602/176474664-fd4f2125-6689-4f47-b660-3131c169f92a.png)
+---
+
 
 This course introduces the typical workflow of analyzing tabular data, and apply to the energy-efficient building design scenario, including four notebooks:
 
