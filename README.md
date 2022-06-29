@@ -5,7 +5,7 @@
 ---
 
 ![image](https://user-images.githubusercontent.com/106488602/176470802-b854eff6-57fe-463e-8f0f-3bac73700d2b.png)
-Typical workflow of data science
+*Typical workflow of data science*
 
 ---
 ![image](https://user-images.githubusercontent.com/106488602/176474664-fd4f2125-6689-4f47-b660-3131c169f92a.png)
@@ -56,3 +56,6 @@ This course introduces the typical workflow of analyzing tabular data, and apply
   </li>
 </ol>
 
+Credit:
+- *Chen, X., Abualdenien, J., Singh, M.M., Borrmann, A. and Geyer, P., 2022. Introducing causal inference in the energy-efficient building design process. arXiv preprint arXiv:2203.10115*
+- *Singh, Manav Mahan; Singaravel, Sundaravelpandian; Klein, Ralf; Geyer, Philipp (2020). Quick energy prediction and comparison of options at the early design stage. Advanced Engineering Informatics, 46(), 101185–.doi:10.1016/j.aei.2020.101185*
